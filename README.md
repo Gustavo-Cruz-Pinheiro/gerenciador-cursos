@@ -8,7 +8,8 @@ Projeto desenvolvido durante a disciplina Linguagem de Programação 3 no 4º se
 
 # 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
-● Java
+
+* Java
 
 # 🚀 Como executar o projeto
 
