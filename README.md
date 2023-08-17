@@ -24,6 +24,8 @@ Abra o projeto na sua IDE preferida de desenvolvimento Java e o execute!
 
 # Autor
 Gustavo Cruz Pinheiro
+
+## Me siga nas redes sociais:
 <a href="https:/https://github.com/Gustavo-Cruz-Pinheiro">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://www.instagram.com/gusttavo.cruz">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://www.facebook.com/gustavocruzpinheiro">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
