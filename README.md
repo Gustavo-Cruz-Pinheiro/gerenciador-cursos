@@ -1,18 +1,35 @@
 # Gerenciador de Cursos
 
-Projeto desenvolvido durante a disciplina Linguagem de Programação 3 no 4º semestro do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de Mato Grosso do Sul - IFMS
-
-![Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
+![Em Desenvolvimento](http://img.shields.io/static/v1?label=EM%20DESENVOLVIMENTO&message=FINALIZADO&color=GREEN&style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
+O objetivo do projeto foi desenvolver uma aplicação com o objetivo de gerenciar cursos dentro de alguma instituição de ensino. 
+
+Projeto desenvolvido durante a disciplina Linguagem de Programação 3 no 4º semestro do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de Mato Grosso do Sul - IFMS
+
+
 # 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
-* XAMPP
-* Java
-* NetBeans
-* MySQL
+* XAMPP;
+* Java;
+* NetBeans;
+* MySQL;
+
+# 📋 Funcionalidades
+As seguintes funcionalidades estão presentes no projeto:
+* Adicionar curso;
+* Remover curso;
+* Alterar curso;
+* Listar cursos;
+* Buscar curso por ID;
+* Buscar curso por título;
+* Contabilizar total de horas;
+* Contabilizar total de horas por período;
+* Listagem por intervalo;
+* Listagem por cursos finalizados;
+* Listagem por empresa;
 
 # 🚀 Como executar o projeto
 
