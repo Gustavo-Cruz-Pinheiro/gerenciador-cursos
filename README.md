@@ -15,7 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * XAMPP;
 * Java;
 * NetBeans;
-* MySQL;
+* MySQL.
 
 # 📋 Funcionalidades
 As seguintes funcionalidades estão presentes no projeto:
@@ -29,7 +29,7 @@ As seguintes funcionalidades estão presentes no projeto:
 * Contabilizar total de horas por período;
 * Listagem por intervalo;
 * Listagem por cursos finalizados;
-* Listagem por empresa;
+* Listagem por empresa.
 
 # 🚀 Como executar o projeto
 
