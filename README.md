@@ -5,20 +5,23 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-O objetivo do projeto foi desenvolver uma aplicação com a finalidade de gerenciar cursos dentro de alguma instituição de ensino. 
+O objetivo do projeto foi desenvolver uma aplicação desktop com a finalidade de gerenciar cursos dentro de alguma instituição de ensino.
 
 Projeto desenvolvido durante a disciplina Linguagem de Programação 3 no 4º semestro do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de Mato Grosso do Sul - IFMS
 
+## 🛠 Tecnologias
 
-# 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
+
 * XAMPP;
 * Java;
-* NetBeans;
+* NetBeans; e
 * MySQL.
 
-# 📋 Funcionalidades
+## 📋 Funcionalidades
+
 As seguintes funcionalidades estão presentes no projeto:
+
 * Adicionar curso;
 * Remover curso;
 * Alterar curso;
@@ -28,21 +31,25 @@ As seguintes funcionalidades estão presentes no projeto:
 * Contabilizar total de horas;
 * Contabilizar total de horas por período;
 * Listagem por intervalo;
-* Listagem por cursos finalizados;
+* Listagem por cursos finalizados; e
 * Listagem por empresa.
 
-# 🚀 Como executar o projeto
+## 🚀 Como executar o projeto
 
-## Pré-requisitos
+### Pré-requisitos
+
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: MySQL (com o banco de dados e tabela criada), JDK e JVM. Além disso é bom ter uma boa IDE para trabalhar com o código como o NetBeans.
 
 ### 🧭 Rodando a aplicação
+
 Abra o projeto na sua IDE preferida de desenvolvimento Java e o execute!
 
-# Autor
+## Autor
+
 Gustavo Cruz Pinheiro
 
-### Me siga nas redes sociais:
+### Me siga nas redes sociais
+
 <a href="https:/https://github.com/Gustavo-Cruz-Pinheiro">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://www.instagram.com/gusttavo.cruz">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://www.facebook.com/gustavocruzpinheiro">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
