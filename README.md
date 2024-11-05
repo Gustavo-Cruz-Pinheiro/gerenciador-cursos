@@ -9,6 +9,8 @@ O objetivo do projeto foi desenvolver uma aplicação desktop com a finalidade d
 
 Projeto desenvolvido durante a disciplina Linguagem de Programação 3 no 4º semestro do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de Mato Grosso do Sul - IFMS
 
+![Demonstração da Aplicação](./assets/demo.png)
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
